@@ -1,6 +1,5 @@
 package com.App1;
 
-//checking
 import java.io.IOException;
 import java.io.PrintWriter;
 

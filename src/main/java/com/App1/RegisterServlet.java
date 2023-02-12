@@ -1,4 +1,3 @@
-//Testing1
 package com.App1;
 
 import java.io.IOException;
